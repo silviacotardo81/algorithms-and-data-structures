@@ -12,3 +12,4 @@
 /Users/chiva/Documents/Personal/Interview/C#/algorithms-and-data-structures/Playground/obj/Debug/net10.0/Playground.pdb
 /Users/chiva/Documents/Personal/Interview/C#/algorithms-and-data-structures/Playground/obj/Debug/net10.0/Playground.genruntimeconfig.cache
 /Users/chiva/Documents/Personal/Interview/C#/algorithms-and-data-structures/Playground/obj/Debug/net10.0/ref/Playground.dll
+/Users/chiva/Documents/Personal/Interview/C#/algorithms-and-data-structures/Playground/obj/Debug/net10.0/Playground.sourcelink.json
